@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: BASE_URL_PLACEHOLDER/sitemap.xml
