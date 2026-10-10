@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: BASE_URL_PLACEHOLDER/sitemap.xml
+Sitemap: https://digital-marketing-bot.github.io/mysore-silk-guide/sitemap.xml
