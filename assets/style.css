@@ -43,3 +43,12 @@ sup a{text-decoration:none;font-size:.75em}
 .site-footer{background:var(--maroon);color:#f0e3c4;padding:1.5rem 0 2rem;font-size:.9rem}
 .site-footer .disclaimer{max-width:46rem;margin:.5rem auto;text-align:center}
 .site-footer .small{text-align:center;opacity:.75;font-size:.8rem}
+
+/* Brevo lead-magnet CTA */
+.cta-block{margin:2rem 0;padding:1.6rem 1.4rem;border:2px solid #d4af37;border-radius:12px;background:linear-gradient(135deg,#5c1420,#7a1f2e);color:#fff8e7;text-align:center}
+.cta-block h2{color:#f3d77a;margin:.3rem 0 .6rem}
+.cta-block .eyebrow{color:#f3d77a}
+.cta-btn{display:inline-block;margin-top:.8rem;padding:.8rem 1.4rem;border-radius:999px;background:#d4af37;color:#3a0c14;font-weight:700;text-decoration:none}
+.cta-btn:hover,.cta-btn:focus{background:#f3d77a}
+.footer-cta{text-align:center;margin:1rem 0}
+.footer-cta a{color:#d4af37;font-weight:700}
